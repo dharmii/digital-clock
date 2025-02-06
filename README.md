@@ -13,7 +13,7 @@ This clock dynamically updates the time every second and uses rotating dots to d
 
 - Easy to integrate into any web page.
 
-Check Demo : https://digital-clock-firvq8dgv-chilakala-dharmikas-projects-e8732264.vercel.app/
+** Check Demo ** : https://digital-clock-firvq8dgv-chilakala-dharmikas-projects-e8732264.vercel.app/
 
 **Technologies Used**
 
